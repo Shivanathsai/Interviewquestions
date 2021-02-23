@@ -56,7 +56,7 @@ General Questions:
 •	Explain about the project called E commerce which you have mentioned in your resume?
 •	What are the technologies you have used in your project ?
 •	Explain about the entire workflow of Full stack app ? 
-•	What are the other technologies you know apart from MERN stack? 
+•	What are the other technologies you know apart from MERN stack? ?
 
 
 
